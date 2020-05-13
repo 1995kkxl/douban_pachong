@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5772e5f-0ca9-497c-9a7c-de36c39fd21b" name="Default Changelist" comment="">
+      <change beforePath="F:/Pych/.idea/Pych.iml" beforeDir="false" afterPath="F:/Pych/.idea/Pych.iml" afterDir="false" />
+      <change beforePath="F:/Pych/.idea/workspace.xml" beforeDir="false" afterPath="F:/Pych/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="F:/Pych/day1/contine.py" beforeDir="false" afterPath="F:/Pych/day1/contine.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/3leverl_menus.py" beforeDir="false" afterPath="F:/Pych/day1/day2/3leverl_menus.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/dictionary.py" beforeDir="false" afterPath="F:/Pych/day1/day2/dictionary.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/encode.py" beforeDir="false" afterPath="F:/Pych/day1/day2/encode.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/file_op.py" beforeDir="false" afterPath="F:/Pych/day1/day2/file_op.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/file_op2.py" beforeDir="false" afterPath="F:/Pych/day1/day2/file_op2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/file_op3.py" beforeDir="false" afterPath="F:/Pych/day1/day2/file_op3.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/fun55.py" beforeDir="false" afterPath="F:/Pych/day1/day2/fun55.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/func_7.py" beforeDir="false" afterPath="F:/Pych/day1/day2/func_7.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/func_t6.py" beforeDir="false" afterPath="F:/Pych/day1/day2/func_t6.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/func_test1.py" beforeDir="false" afterPath="F:/Pych/day1/day2/func_test1.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/func_test2.py" beforeDir="false" afterPath="F:/Pych/day1/day2/func_test2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/func_test4.py" beforeDir="false" afterPath="F:/Pych/day1/day2/func_test4.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/func_test5.py" beforeDir="false" afterPath="F:/Pych/day1/day2/func_test5.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/names.py" beforeDir="false" afterPath="F:/Pych/day1/day2/names.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/names2.py" beforeDir="false" afterPath="F:/Pych/day1/day2/names2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/names3.py" beforeDir="false" afterPath="F:/Pych/day1/day2/names3.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/pytest.py" beforeDir="false" afterPath="F:/Pych/day1/day2/pytest.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/string.py" beforeDir="false" afterPath="F:/Pych/day1/day2/string.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/test.py" beforeDir="false" afterPath="F:/Pych/day1/day2/test.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/tuple.py" beforeDir="false" afterPath="F:/Pych/day1/day2/tuple.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/with语句.py" beforeDir="false" afterPath="F:/Pych/day1/day2/with语句.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/xxkwargs用户登录.py" beforeDir="false" afterPath="F:/Pych/day1/day2/xxkwargs用户登录.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/yesterday" beforeDir="false" afterPath="F:/Pych/day1/day2/yesterday" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/心心kwargs.py" beforeDir="false" afterPath="F:/Pych/day1/day2/心心kwargs.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/心心kwargs2.py" beforeDir="false" afterPath="F:/Pych/day1/day2/心心kwargs2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/心点args.py" beforeDir="false" afterPath="F:/Pych/day1/day2/心点args.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/文件修改.py" beforeDir="false" afterPath="F:/Pych/day1/day2/文件修改.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/进度条.py" beforeDir="false" afterPath="F:/Pych/day1/day2/进度条.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/递归.py" beforeDir="false" afterPath="F:/Pych/day1/day2/递归.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day2/集合.py" beforeDir="false" afterPath="F:/Pych/day1/day2/集合.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/Atm/bin/atm.py" beforeDir="false" afterPath="F:/Pych/day1/day4/Atm/bin/atm.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/Atm/core/main.py" beforeDir="false" afterPath="F:/Pych/day1/day4/Atm/core/main.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/decorator.py" beforeDir="false" afterPath="F:/Pych/day1/day4/decorator.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/decorator1.py" beforeDir="false" afterPath="F:/Pych/day1/day4/decorator1.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/decorator2.py" beforeDir="false" afterPath="F:/Pych/day1/day4/decorator2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/decorator4.py" beforeDir="false" afterPath="F:/Pych/day1/day4/decorator4.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/decorator高潮版.py" beforeDir="false" afterPath="F:/Pych/day1/day4/decorator高潮版.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/decorator高潮版2.py" beforeDir="false" afterPath="F:/Pych/day1/day4/decorator高潮版2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/json反序列化.py" beforeDir="false" afterPath="F:/Pych/day1/day4/json反序列化.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/json序列化.py" beforeDir="false" afterPath="F:/Pych/day1/day4/json序列化.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/不带参数的装饰器.py" beforeDir="false" afterPath="F:/Pych/day1/day4/不带参数的装饰器.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/内置方法.py" beforeDir="false" afterPath="F:/Pych/day1/day4/内置方法.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/带参数的装饰器.py" beforeDir="false" afterPath="F:/Pych/day1/day4/带参数的装饰器.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/斐波那契.py" beforeDir="false" afterPath="F:/Pych/day1/day4/斐波那契.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/生成器并行.py" beforeDir="false" afterPath="F:/Pych/day1/day4/生成器并行.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/day4/访问顺序.py" beforeDir="false" afterPath="F:/Pych/day1/day4/访问顺序.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/for.py" beforeDir="false" afterPath="F:/Pych/day1/for.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/for_test.py" beforeDir="false" afterPath="F:/Pych/day1/for_test.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/guess.py" beforeDir="false" afterPath="F:/Pych/day1/guess.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/new_dir/func_test55.py" beforeDir="false" afterPath="F:/Pych/day1/new_dir/func_test55.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/new_dir/login.py" beforeDir="false" afterPath="F:/Pych/day1/new_dir/login.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/passwd.py" beforeDir="false" afterPath="F:/Pych/day1/passwd.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/sys.py" beforeDir="false" afterPath="F:/Pych/day1/sys.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/var.py" beforeDir="false" afterPath="F:/Pych/day1/var.py" afterDir="false" />
+      <change beforePath="F:/Pych/day1/while.py" beforeDir="false" afterPath="F:/Pych/day1/while.py" afterDir="false" />
+      <change beforePath="F:/Pych/day10/select_socket_client.py" beforeDir="false" afterPath="F:/Pych/day10/select_socket_client.py" afterDir="false" />
+      <change beforePath="F:/Pych/day10/select_socket_server.py" beforeDir="false" afterPath="F:/Pych/day10/select_socket_server.py" afterDir="false" />
+      <change beforePath="F:/Pych/day11/consumer.py" beforeDir="false" afterPath="F:/Pych/day11/consumer.py" afterDir="false" />
+      <change beforePath="F:/Pych/day11/producer.py" beforeDir="false" afterPath="F:/Pych/day11/producer.py" afterDir="false" />
+      <change beforePath="F:/Pych/day12/mysql_conn.py" beforeDir="false" afterPath="F:/Pych/day12/mysql_conn.py" afterDir="false" />
+      <change beforePath="F:/Pych/day12/orm_api.py" beforeDir="false" afterPath="F:/Pych/day12/orm_api.py" afterDir="false" />
+      <change beforePath="F:/Pych/day12/orm_create_table.py" beforeDir="false" afterPath="F:/Pych/day12/orm_create_table.py" afterDir="false" />
+      <change beforePath="F:/Pych/day12/orm_man2_api.py" beforeDir="false" afterPath="F:/Pych/day12/orm_man2_api.py" afterDir="false" />
+      <change beforePath="F:/Pych/day12/orm_many_fk.py" beforeDir="false" afterPath="F:/Pych/day12/orm_many_fk.py" afterDir="false" />
+      <change beforePath="F:/Pych/day12/orm多外键.py" beforeDir="false" afterPath="F:/Pych/day12/orm多外键.py" afterDir="false" />
+      <change beforePath="F:/Pych/day12/rom_basic.py" beforeDir="false" afterPath="F:/Pych/day12/rom_basic.py" afterDir="false" />
+      <change beforePath="F:/Pych/day12/修改.py" beforeDir="false" afterPath="F:/Pych/day12/修改.py" afterDir="false" />
+      <change beforePath="F:/Pych/day12/多表查询.py" beforeDir="false" afterPath="F:/Pych/day12/多表查询.py" afterDir="false" />
+      <change beforePath="F:/Pych/day12/查询.py" beforeDir="false" afterPath="F:/Pych/day12/查询.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/LittleFinger/conf/settings.py" beforeDir="false" afterPath="F:/Pych/day13/LittleFinger/conf/settings.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/LittleFinger/modules/actions.py" beforeDir="false" afterPath="F:/Pych/day13/LittleFinger/modules/actions.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/demos/demo.py" beforeDir="false" afterPath="F:/Pych/day13/demos/demo.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/demos/interactive.py" beforeDir="false" afterPath="F:/Pych/day13/demos/interactive.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/jumpserver/bin/fuck_it.py" beforeDir="false" afterPath="F:/Pych/day13/jumpserver/bin/fuck_it.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/jumpserver/conf/action_registers.py" beforeDir="false" afterPath="F:/Pych/day13/jumpserver/conf/action_registers.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/jumpserver/conf/settings.py" beforeDir="false" afterPath="F:/Pych/day13/jumpserver/conf/settings.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/jumpserver/models/models.py" beforeDir="false" afterPath="F:/Pych/day13/jumpserver/models/models.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/jumpserver/models/models_v2.py" beforeDir="false" afterPath="F:/Pych/day13/jumpserver/models/models_v2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/jumpserver/modules/actions.py" beforeDir="false" afterPath="F:/Pych/day13/jumpserver/modules/actions.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/jumpserver/modules/utils.py" beforeDir="false" afterPath="F:/Pych/day13/jumpserver/modules/utils.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/jumpserver/modules/views.py" beforeDir="false" afterPath="F:/Pych/day13/jumpserver/modules/views.py" afterDir="false" />
+      <change beforePath="F:/Pych/day13/ssh.py" beforeDir="false" afterPath="F:/Pych/day13/ssh.py" afterDir="false" />
+      <change beforePath="F:/Pych/day14/html/a8.html" beforeDir="false" afterPath="F:/Pych/day14/html/a8.html" afterDir="false" />
+      <change beforePath="F:/Pych/day14/html/fahuitop.html" beforeDir="false" afterPath="F:/Pych/day14/html/fahuitop.html" afterDir="false" />
+      <change beforePath="F:/Pych/day14/html/guding.html" beforeDir="false" afterPath="F:/Pych/day14/html/guding.html" afterDir="false" />
+      <change beforePath="F:/Pych/day14/html/index.html" beforeDir="false" afterPath="F:/Pych/day14/html/index.html" afterDir="false" />
+      <change beforePath="F:/Pych/day14/html/s11.html" beforeDir="false" afterPath="F:/Pych/day14/html/s11.html" afterDir="false" />
+      <change beforePath="F:/Pych/day14/html/s13.html" beforeDir="false" afterPath="F:/Pych/day14/html/s13.html" afterDir="false" />
+      <change beforePath="F:/Pych/day14/html/s14.html" beforeDir="false" afterPath="F:/Pych/day14/html/s14.html" afterDir="false" />
+      <change beforePath="F:/Pych/day14/html/s2.html" beforeDir="false" afterPath="F:/Pych/day14/html/s2.html" afterDir="false" />
+      <change beforePath="F:/Pych/day14/html/s7.html" beforeDir="false" afterPath="F:/Pych/day14/html/s7.html" afterDir="false" />
+      <change beforePath="F:/Pych/day14/html/tc.html" beforeDir="false" afterPath="F:/Pych/day14/html/tc.html" afterDir="false" />
+      <change beforePath="F:/Pych/day14/sock/index.html" beforeDir="false" afterPath="F:/Pych/day14/sock/index.html" afterDir="false" />
+      <change beforePath="F:/Pych/day16/s1.html" beforeDir="false" afterPath="F:/Pych/day16/s1.html" afterDir="false" />
+      <change beforePath="F:/Pych/day16/s10.html" beforeDir="false" afterPath="F:/Pych/day16/s10.html" afterDir="false" />
+      <change beforePath="F:/Pych/day16/s11.html" beforeDir="false" afterPath="F:/Pych/day16/s11.html" afterDir="false" />
+      <change beforePath="F:/Pych/day16/s12-1.html" beforeDir="false" afterPath="F:/Pych/day16/s12-1.html" afterDir="false" />
+      <change beforePath="F:/Pych/day16/s12.html" beforeDir="false" afterPath="F:/Pych/day16/s12.html" afterDir="false" />
+      <change beforePath="F:/Pych/day16/s13.html" beforeDir="false" afterPath="F:/Pych/day16/s13.html" afterDir="false" />
+      <change beforePath="F:/Pych/day16/s3.html" beforeDir="false" afterPath="F:/Pych/day16/s3.html" afterDir="false" />
+      <change beforePath="F:/Pych/day16/s4.html" beforeDir="false" afterPath="F:/Pych/day16/s4.html" afterDir="false" />
+      <change beforePath="F:/Pych/day16/s6.html" beforeDir="false" afterPath="F:/Pych/day16/s6.html" afterDir="false" />
+      <change beforePath="F:/Pych/day16/s8.html" beforeDir="false" afterPath="F:/Pych/day16/s8.html" afterDir="false" />
+      <change beforePath="F:/Pych/day17/s1.html" beforeDir="false" afterPath="F:/Pych/day17/s1.html" afterDir="false" />
+      <change beforePath="F:/Pych/day17/s10.html" beforeDir="false" afterPath="F:/Pych/day17/s10.html" afterDir="false" />
+      <change beforePath="F:/Pych/day17/s11.html" beforeDir="false" afterPath="F:/Pych/day17/s11.html" afterDir="false" />
+      <change beforePath="F:/Pych/day17/s12.html" beforeDir="false" afterPath="F:/Pych/day17/s12.html" afterDir="false" />
+      <change beforePath="F:/Pych/day17/s17.html" beforeDir="false" afterPath="F:/Pych/day17/s17.html" afterDir="false" />
+      <change beforePath="F:/Pych/day17/s3.html" beforeDir="false" afterPath="F:/Pych/day17/s3.html" afterDir="false" />
+      <change beforePath="F:/Pych/day17/s4.html" beforeDir="false" afterPath="F:/Pych/day17/s4.html" afterDir="false" />
+      <change beforePath="F:/Pych/day17/s5-1.html" beforeDir="false" afterPath="F:/Pych/day17/s5-1.html" afterDir="false" />
+      <change beforePath="F:/Pych/day17/s5.html" beforeDir="false" afterPath="F:/Pych/day17/s5.html" afterDir="false" />
+      <change beforePath="F:/Pych/day17/s8.html" beforeDir="false" afterPath="F:/Pych/day17/s8.html" afterDir="false" />
+      <change beforePath="F:/Pych/day17/s9.html" beforeDir="false" afterPath="F:/Pych/day17/s9.html" afterDir="false" />
+      <change beforePath="F:/Pych/day18/s5.html" beforeDir="false" afterPath="F:/Pych/day18/s5.html" afterDir="false" />
+      <change beforePath="F:/Pych/day5/atm/atm/db/accounts/1234.json" beforeDir="false" afterPath="F:/Pych/day5/atm/atm/db/accounts/1234.json" afterDir="false" />
+      <change beforePath="F:/Pych/day5/configparser配置文件修改.py" beforeDir="false" afterPath="F:/Pych/day5/configparser配置文件修改.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/configparser配置文件生成.py" beforeDir="false" afterPath="F:/Pych/day5/configparser配置文件生成.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/hashlib加密模块.py" beforeDir="false" afterPath="F:/Pych/day5/hashlib加密模块.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/hashlib模拟登陆.py" beforeDir="false" afterPath="F:/Pych/day5/hashlib模拟登陆.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/module_t2/main.py" beforeDir="false" afterPath="F:/Pych/day5/module_t2/main.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/module_t2/module_alex.py" beforeDir="false" afterPath="F:/Pych/day5/module_t2/module_alex.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/module_t2/说明" beforeDir="false" afterPath="F:/Pych/day5/module_t2/说明" afterDir="false" />
+      <change beforePath="F:/Pych/day5/module_t2/验证码1.py" beforeDir="false" afterPath="F:/Pych/day5/module_t2/验证码1.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/random_t1/os模块.py" beforeDir="false" afterPath="F:/Pych/day5/random_t1/os模块.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/random_t1/验证码.py" beforeDir="false" afterPath="F:/Pych/day5/random_t1/验证码.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/re模块/re模块使用2.py" beforeDir="false" afterPath="F:/Pych/day5/re模块/re模块使用2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/re模块/re模块的使用.py" beforeDir="false" afterPath="F:/Pych/day5/re模块/re模块的使用.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/re模块/re模块说明" beforeDir="false" afterPath="F:/Pych/day5/re模块/re模块说明" afterDir="false" />
+      <change beforePath="F:/Pych/day5/re模块/split切割字符串,返回列表.py" beforeDir="false" afterPath="F:/Pych/day5/re模块/split切割字符串,返回列表.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/re模块/syb替换.py" beforeDir="false" afterPath="F:/Pych/day5/re模块/syb替换.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/re模块/全部匹配.py" beforeDir="false" afterPath="F:/Pych/day5/re模块/全部匹配.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/re模块/匹配中文.py" beforeDir="false" afterPath="F:/Pych/day5/re模块/匹配中文.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/re模块/贪婪匹配.py" beforeDir="false" afterPath="F:/Pych/day5/re模块/贪婪匹配.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/time_t1/t.py" beforeDir="false" afterPath="F:/Pych/day5/time_t1/t.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/time_t1/time模块.py" beforeDir="false" afterPath="F:/Pych/day5/time_t1/time模块.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/xmlt1" beforeDir="false" afterPath="F:/Pych/day5/xmlt1" afterDir="false" />
+      <change beforePath="F:/Pych/day5/xml修改.py" beforeDir="false" afterPath="F:/Pych/day5/xml修改.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/xml创建.py" beforeDir="false" afterPath="F:/Pych/day5/xml创建.py" afterDir="false" />
+      <change beforePath="F:/Pych/day5/xml处理.py" beforeDir="false" afterPath="F:/Pych/day5/xml处理.py" afterDir="false" />
+      <change beforePath="F:/Pych/day6/cs_play.py" beforeDir="false" afterPath="F:/Pych/day6/cs_play.py" afterDir="false" />
+      <change beforePath="F:/Pych/day6/反射.py" beforeDir="false" afterPath="F:/Pych/day6/反射.py" afterDir="false" />
+      <change beforePath="F:/Pych/day6/多态.py" beforeDir="false" afterPath="F:/Pych/day6/多态.py" afterDir="false" />
+      <change beforePath="F:/Pych/day6/属性方法例子.py" beforeDir="false" afterPath="F:/Pych/day6/属性方法例子.py" afterDir="false" />
+      <change beforePath="F:/Pych/day6/属性方法例子2.py" beforeDir="false" afterPath="F:/Pych/day6/属性方法例子2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day6/类方法.py" beforeDir="false" afterPath="F:/Pych/day6/类方法.py" afterDir="false" />
+      <change beforePath="F:/Pych/day6/继承-学校.py" beforeDir="false" afterPath="F:/Pych/day6/继承-学校.py" afterDir="false" />
+      <change beforePath="F:/Pych/day6/继承.py" beforeDir="false" afterPath="F:/Pych/day6/继承.py" afterDir="false" />
+      <change beforePath="F:/Pych/day6/继承2.py" beforeDir="false" afterPath="F:/Pych/day6/继承2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day6/静态方法.py" beforeDir="false" afterPath="F:/Pych/day6/静态方法.py" afterDir="false" />
+      <change beforePath="F:/Pych/day7/linux_clinet.py" beforeDir="false" afterPath="F:/Pych/day7/linux_clinet.py" afterDir="false" />
+      <change beforePath="F:/Pych/day7/linux_server.py" beforeDir="false" afterPath="F:/Pych/day7/linux_server.py" afterDir="false" />
+      <change beforePath="F:/Pych/day7/socket_client.py" beforeDir="false" afterPath="F:/Pych/day7/socket_client.py" afterDir="false" />
+      <change beforePath="F:/Pych/day7/socket_server.py" beforeDir="false" afterPath="F:/Pych/day7/socket_server.py" afterDir="false" />
+      <change beforePath="F:/Pych/day7/socket_server_client.py" beforeDir="false" afterPath="F:/Pych/day7/socket_server_client.py" afterDir="false" />
+      <change beforePath="F:/Pych/day7/socket_server_ssh.py" beforeDir="false" afterPath="F:/Pych/day7/socket_server_ssh.py" afterDir="false" />
+      <change beforePath="F:/Pych/day8/ftp_client/ftp_client.py" beforeDir="false" afterPath="F:/Pych/day8/ftp_client/ftp_client.py" afterDir="false" />
+      <change beforePath="F:/Pych/day8/ftp_server/core/main.py" beforeDir="false" afterPath="F:/Pych/day8/ftp_server/core/main.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/SSH.py" beforeDir="false" afterPath="F:/Pych/day9/SSH.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/get进程id.py" beforeDir="false" afterPath="F:/Pych/day9/get进程id.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/gevent_socket.py" beforeDir="false" afterPath="F:/Pych/day9/gevent_socket.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/greenlet协程.py" beforeDir="false" afterPath="F:/Pych/day9/greenlet协程.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/lock.py" beforeDir="false" afterPath="F:/Pych/day9/lock.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/manager2.py" beforeDir="false" afterPath="F:/Pych/day9/manager2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/pipe.py" beforeDir="false" afterPath="F:/Pych/day9/pipe.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/pipe2.py" beforeDir="false" afterPath="F:/Pych/day9/pipe2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/sftpclient.py" beforeDir="false" afterPath="F:/Pych/day9/sftpclient.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/socket_client.py" beforeDir="false" afterPath="F:/Pych/day9/socket_client.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/yield.py" beforeDir="false" afterPath="F:/Pych/day9/yield.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/多进程.py" beforeDir="false" afterPath="F:/Pych/day9/多进程.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/爬虫.py" beforeDir="false" afterPath="F:/Pych/day9/爬虫.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/爬虫2.py" beforeDir="false" afterPath="F:/Pych/day9/爬虫2.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/生产者消费模型.py" beforeDir="false" afterPath="F:/Pych/day9/生产者消费模型.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/自动io切换.py" beforeDir="false" afterPath="F:/Pych/day9/自动io切换.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/进程池.py" beforeDir="false" afterPath="F:/Pych/day9/进程池.py" afterDir="false" />
+      <change beforePath="F:/Pych/day9/队列.py" beforeDir="false" afterPath="F:/Pych/day9/队列.py" afterDir="false" />
+      <change beforePath="F:/Pych/htmllx/0427/absolute.html" beforeDir="false" afterPath="F:/Pych/htmllx/0427/absolute.html" afterDir="false" />
+      <change beforePath="F:/Pych/htmllx/0427/border.html" beforeDir="false" afterPath="F:/Pych/htmllx/0427/border.html" afterDir="false" />
+      <change beforePath="F:/Pych/htmllx/0427/demo/index.html" beforeDir="false" afterPath="F:/Pych/htmllx/0427/demo/index.html" afterDir="false" />
+      <change beforePath="F:/Pych/htmllx/0427/display.html" beforeDir="false" afterPath="F:/Pych/htmllx/0427/display.html" afterDir="false" />
+      <change beforePath="F:/Pych/htmllx/0427/fixed.html" beforeDir="false" afterPath="F:/Pych/htmllx/0427/fixed.html" afterDir="false" />
+      <change beforePath="F:/Pych/htmllx/0427/padding.html" beforeDir="false" afterPath="F:/Pych/htmllx/0427/padding.html" afterDir="false" />
+      <change beforePath="F:/Pych/htmllx/0427/relative.html" beforeDir="false" afterPath="F:/Pych/htmllx/0427/relative.html" afterDir="false" />
+      <change beforePath="F:/Pych/htmllx/0427/z-index.html" beforeDir="false" afterPath="F:/Pych/htmllx/0427/z-index.html" afterDir="false" />
+      <change beforePath="F:/Pych/htmllx/0427/怪异盒.html" beforeDir="false" afterPath="F:/Pych/htmllx/0427/怪异盒.html" afterDir="false" />
+      <change beforePath="F:/Pych/htmllx/0427/盒子模型.html" beforeDir="false" afterPath="F:/Pych/htmllx/0427/盒子模型.html" afterDir="false" />
+      <change beforePath="F:/Pych/htmllx/float.html" beforeDir="false" afterPath="F:/Pych/htmllx/float.html" afterDir="false" />
+      <change beforePath="F:/Pych/mysql练习/01-连接mysql.py" beforeDir="false" afterPath="F:/Pych/mysql练习/01-连接mysql.py" afterDir="false" />
+      <change beforePath="F:/Pych/mysql练习/02-创建一张表.py" beforeDir="false" afterPath="F:/Pych/mysql练习/02-创建一张表.py" afterDir="false" />
+      <change beforePath="F:/Pych/mysql练习/03-向表中插入数据.py" beforeDir="false" afterPath="F:/Pych/mysql练习/03-向表中插入数据.py" afterDir="false" />
+      <change beforePath="F:/Pych/mysql练习/03-插入数据.py" beforeDir="false" afterPath="F:/Pych/mysql练习/03-插入数据.py" afterDir="false" />
+      <change beforePath="F:/Pych/mysql练习/04-查询表数据.py" beforeDir="false" afterPath="F:/Pych/mysql练习/04-查询表数据.py" afterDir="false" />
+      <change beforePath="F:/Pych/mysql练习/05-更新表数据.py" beforeDir="false" afterPath="F:/Pych/mysql练习/05-更新表数据.py" afterDir="false" />
+      <change beforePath="F:/Pych/mysql练习/06-删除表中的数据.py" beforeDir="false" afterPath="F:/Pych/mysql练习/06-删除表中的数据.py" afterDir="false" />
+      <change beforePath="F:/Pych/mysql练习/07-删除表.py" beforeDir="false" afterPath="F:/Pych/mysql练习/07-删除表.py" afterDir="false" />
+      <change beforePath="F:/Pych/mysql练习/1.创建表movie.py" beforeDir="false" afterPath="F:/Pych/mysql练习/1.创建表movie.py" afterDir="false" />
+      <change beforePath="F:/Pych/mysql练习/ciyuntest.py" beforeDir="false" afterPath="F:/Pych/mysql练习/ciyuntest.py" afterDir="false" />
+      <change beforePath="F:/Pych/zqzb/SQLlx/lean_sqll.py" beforeDir="false" afterPath="F:/Pych/zqzb/SQLlx/lean_sqll.py" afterDir="false" />
+      <change beforePath="F:/Pych/zqzb/SQLlx/operate_sql.py" beforeDir="false" afterPath="F:/Pych/zqzb/SQLlx/operate_sql.py" afterDir="false" />
+      <change beforePath="F:/Pych/zqzb/SQLlx2/learn_sql.py" beforeDir="false" afterPath="F:/Pych/zqzb/SQLlx2/learn_sql.py" afterDir="false" />
+      <change beforePath="F:/Pych/zqzb/SQLlx2/models.py" beforeDir="false" afterPath="F:/Pych/zqzb/SQLlx2/models.py" afterDir="false" />
+      <change beforePath="F:/Pych/zqzb/SQLlx2/sql_operate.py" beforeDir="false" afterPath="F:/Pych/zqzb/SQLlx2/sql_operate.py" afterDir="false" />
+      <change beforePath="F:/Pych/zqzb/s1.html" beforeDir="false" afterPath="F:/Pych/zqzb/s1.html" afterDir="false" />
+      <change beforePath="F:/Pych/zqzb/socket_lx/tc.py" beforeDir="false" afterPath="F:/Pych/zqzb/socket_lx/tc.py" afterDir="false" />
+      <change beforePath="F:/Pych/zqzb/socket_lx/ts.py" beforeDir="false" afterPath="F:/Pych/zqzb/socket_lx/ts.py" afterDir="false" />
+      <change beforePath="F:/Pych/冒泡排序.py" beforeDir="false" afterPath="F:/Pych/冒泡排序.py" afterDir="false" />
+      <change beforePath="F:/day19/.idea/workspace.xml" beforeDir="false" afterPath="F:/day19/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="F:/day20/templates/detail.html" beforeDir="false" afterPath="F:/day20/templates/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider.py" afterDir="false" />
+      <change beforePath="F:/douban/test/pansql.py" beforeDir="false" afterPath="F:/douban/test/pansql.py" afterDir="false" />
+      <change beforePath="F:/douban/test/spider1111.py" beforeDir="false" afterPath="F:/douban/test/spider1111.py" afterDir="false" />
+      <change beforePath="F:/nyflask/.idea/workspace.xml" beforeDir="false" afterPath="F:/nyflask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="F:/nyflask/venv/helloword.py" beforeDir="false" afterPath="F:/nyflask/venv/helloword.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/doubafl$pymy1sql.coverage" NAME="pymy1sql Coverage Results" MODIFIED="1587827950717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/doubafl$testcloud.coverage" NAME="testcloud Coverage Results" MODIFIED="1587980524236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/doubafl$page.coverage" NAME="page Coverage Results" MODIFIED="1588152237761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/doubafl$spider.coverage" NAME="spider Coverage Results" MODIFIED="1587831364875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/doubafl$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1588087545379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/doubafl$pymysql.coverage" NAME="pymysql Coverage Results" MODIFIED="1587827754548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/doubafl$doubafl.coverage" NAME="doubafl Coverage Results" MODIFIED="1588152247247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class=&quot;row&quot;</find>
+      <find>counts section-bg</find>
+      <find>home</find>
+      <find>DOU</find>
+      <find>assets</find>
+      <find>container</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>static/assets</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1000" />
+    <option name="y" value="30" />
+    <option name="width" value="927" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectId" id="1bqQpLZZ3Pjjxoa2jmtm4COeBqc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/doubafl/app.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\doubafl\templates" />
+      <recent name="F:\doubafl" />
+      <recent name="F:\doubafl\static\assets\img" />
+      <recent name="F:\doubafl\static\assets\js" />
+      <recent name="F:\doubafl\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flask server.doubafl">
+    <configuration name="page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="doubafl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pymy1sql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="doubafl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/pymy1sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="doubafl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testcloud" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="doubafl" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcloud.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" factoryName="Flask server" temporary="true" nameIsGenerated="true">
+      <option name="additionalOptions" value="" />
+      <option name="application" value="" />
+      <option name="flaskDebug" value="true" />
+      <module name="doubafl" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="doubafl" type="Python.FlaskServer" factoryName="Flask server">
+      <option name="additionalOptions" value="" />
+      <option name="application" value="" />
+      <option name="flaskDebug" value="true" />
+      <module name="doubafl" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.doubafl" />
+      <item itemvalue="Flask server.Flask (app.py)" />
+      <item itemvalue="Python.testcloud" />
+      <item itemvalue="Python.pymy1sql" />
+      <item itemvalue="Python.spider" />
+      <item itemvalue="Python.page" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5772e5f-0ca9-497c-9a7c-de36c39fd21b" name="Default Changelist" comment="" />
+      <created>1587634926341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587634926341</updated>
+      <workItem from="1589357336103" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
