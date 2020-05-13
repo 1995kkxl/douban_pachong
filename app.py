@@ -12,10 +12,6 @@ app.config['TEMPLATES_AUTO_RELOAD'] = True
 import pymysql
 
 
-
-
-
-
 DBHOST = "127.0.0.1"
 USER = "root"
 PASSWORD = "password"
